@@ -26,8 +26,8 @@
       <file leaf-file-name="ReadImage.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/srch07/duplicate_image_finder/util/ReadImage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="748">
-              <caret line="26" column="96" selection-start-line="26" selection-start-column="96" selection-end-line="26" selection-end-column="96" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="326" max-vertical-offset="748">
+              <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,8 +38,8 @@
       <file leaf-file-name="ImageUtility.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/srch07/duplicate_image_finder/util/ImageUtility.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1209" max-vertical-offset="1666">
-              <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1158" max-vertical-offset="1734">
+              <caret line="82" column="28" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,28 +50,28 @@
       <file leaf-file-name="DuplicateImageFinder.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/srch07/duplicate_image_finder/api/DuplicateImageFinder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28169015" vertical-offset="2603" max-vertical-offset="3043">
-              <caret line="159" column="38" selection-start-line="159" selection-start-column="38" selection-end-line="159" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.8991098" vertical-offset="1023" max-vertical-offset="3111">
+              <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2531#2548#0" expanded="true" />
-                <element signature="e#2613#2629#0" expanded="true" />
-                <element signature="e#2691#2708#0" expanded="true" />
-                <element signature="e#2769#2791#0" expanded="true" />
-                <element signature="e#2853#2861#0" expanded="true" />
-                <element signature="e#4348#4365#0" expanded="true" />
-                <element signature="e#4824#4832#0" expanded="true" />
-                <element signature="e#5010#5027#0" expanded="true" />
-                <element signature="e#5388#5402#0" expanded="true" />
-                <element signature="e#5642#5650#0" expanded="true" />
-                <element signature="e#5969#5977#0" expanded="true" />
-                <element signature="e#6305#6333#0" expanded="true" />
-                <element signature="e#6400#6662#0" expanded="true" />
-                <element signature="e#6643#6644#0" expanded="true" />
-                <element signature="e#7251#7259#0" expanded="true" />
-                <element signature="e#7683#7711#0" expanded="true" />
-                <element signature="e#7778#8040#0" expanded="true" />
-                <element signature="e#8021#8022#0" expanded="true" />
+                <element signature="e#2619#2636#0" expanded="true" />
+                <element signature="e#2701#2717#0" expanded="true" />
+                <element signature="e#2779#2796#0" expanded="true" />
+                <element signature="e#2857#2879#0" expanded="true" />
+                <element signature="e#2941#2949#0" expanded="true" />
+                <element signature="e#4518#4535#0" expanded="true" />
+                <element signature="e#4994#5002#0" expanded="true" />
+                <element signature="e#5180#5197#0" expanded="true" />
+                <element signature="e#5558#5572#0" expanded="true" />
+                <element signature="e#5812#5820#0" expanded="true" />
+                <element signature="e#6139#6147#0" expanded="true" />
+                <element signature="e#6475#6503#0" expanded="true" />
+                <element signature="e#6570#6832#0" expanded="true" />
+                <element signature="e#6813#6814#0" expanded="true" />
+                <element signature="e#7421#7429#0" expanded="true" />
+                <element signature="e#7853#7881#0" expanded="true" />
+                <element signature="e#7948#8210#0" expanded="true" />
+                <element signature="e#8191#8192#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,8 +100,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/srch07/duplicate_image_finder/util/JPEGReader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/srch07/duplicate_image_finder/util/Constants.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/srch07/duplicate_image_finder/util/ReadImage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/srch07/duplicate_image_finder/util/ImageUtility.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/srch07/duplicate_image_finder/util/ImageUtility.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/srch07/duplicate_image_finder/api/DuplicateImageFinder.java" />
       </list>
     </option>
@@ -114,10 +114,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1294" />
-    <option name="height" value="699" />
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1279" />
+    <option name="height" value="681" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -176,6 +176,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Duplicate-Image-Finder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Duplicate-Image-Finder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -593,15 +611,15 @@
       <changelist id="dab99632-17a7-4e6c-aa45-acbec77acfed" name="Default" comment="" />
       <created>1453655902985</created>
       <updated>1453655902985</updated>
-      <workItem from="1453655906543" duration="15306000" />
+      <workItem from="1453655906543" duration="18186000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15306000" />
+    <option name="totallyTimeSpent" value="18186000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1294" height="699" extended-state="0" />
+    <frame x="1" y="1" width="1279" height="681" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -611,20 +629,20 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3986014" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32881355" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34037557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32881355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34441805" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33916083" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -652,12 +670,13 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/srch07/duplicate_image_finder/util/ImageUtility.java</url>
-          <line>39</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/srch07/duplicate_image_finder/api/DuplicateImageFinder.java</url>
+          <line>105</line>
           <properties />
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -673,26 +692,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/srch07/duplicate_image_finder/util/ReadImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="748">
-          <caret line="26" column="96" selection-start-line="26" selection-start-column="96" selection-end-line="26" selection-end-column="96" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/srch07/duplicate_image_finder/util/ImageUtility.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1209" max-vertical-offset="1666">
-          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2535" max-vertical-offset="3060">
@@ -701,30 +700,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/srch07/duplicate_image_finder/api/DuplicateImageFinder.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_55/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28169015" vertical-offset="2603" max-vertical-offset="3043">
-          <caret line="159" column="38" selection-start-line="159" selection-start-column="38" selection-end-line="159" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.33142856" vertical-offset="1907" max-vertical-offset="2567">
+          <caret line="142" column="8" selection-start-line="142" selection-start-column="8" selection-end-line="142" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/srch07/duplicate_image_finder/util/ReadImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="326" max-vertical-offset="748">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2531#2548#0" expanded="true" />
-            <element signature="e#2613#2629#0" expanded="true" />
-            <element signature="e#2691#2708#0" expanded="true" />
-            <element signature="e#2769#2791#0" expanded="true" />
-            <element signature="e#2853#2861#0" expanded="true" />
-            <element signature="e#4348#4365#0" expanded="true" />
-            <element signature="e#4824#4832#0" expanded="true" />
-            <element signature="e#5010#5027#0" expanded="true" />
-            <element signature="e#5388#5402#0" expanded="true" />
-            <element signature="e#5642#5650#0" expanded="true" />
-            <element signature="e#5969#5977#0" expanded="true" />
-            <element signature="e#6305#6333#0" expanded="true" />
-            <element signature="e#6400#6662#0" expanded="true" />
-            <element signature="e#6643#6644#0" expanded="true" />
-            <element signature="e#7251#7259#0" expanded="true" />
-            <element signature="e#7683#7711#0" expanded="true" />
-            <element signature="e#7778#8040#0" expanded="true" />
-            <element signature="e#8021#8022#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/srch07/duplicate_image_finder/util/ImageUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1158" max-vertical-offset="1734">
+          <caret line="82" column="28" selection-start-line="82" selection-start-column="28" selection-end-line="82" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/srch07/duplicate_image_finder/api/DuplicateImageFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8991098" vertical-offset="1023" max-vertical-offset="3111">
+          <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2619#2636#0" expanded="true" />
+            <element signature="e#2701#2717#0" expanded="true" />
+            <element signature="e#2779#2796#0" expanded="true" />
+            <element signature="e#2857#2879#0" expanded="true" />
+            <element signature="e#2941#2949#0" expanded="true" />
+            <element signature="e#4518#4535#0" expanded="true" />
+            <element signature="e#4994#5002#0" expanded="true" />
+            <element signature="e#5180#5197#0" expanded="true" />
+            <element signature="e#5558#5572#0" expanded="true" />
+            <element signature="e#5812#5820#0" expanded="true" />
+            <element signature="e#6139#6147#0" expanded="true" />
+            <element signature="e#6475#6503#0" expanded="true" />
+            <element signature="e#6570#6832#0" expanded="true" />
+            <element signature="e#6813#6814#0" expanded="true" />
+            <element signature="e#7421#7429#0" expanded="true" />
+            <element signature="e#7853#7881#0" expanded="true" />
+            <element signature="e#7948#8210#0" expanded="true" />
+            <element signature="e#8191#8192#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -77,10 +77,14 @@ public class ImageUtility {
         String returnValue = null;
 
         try{
+            BufferedImage loadedImage = ReadImage.readFromPath(filePath, imageAtrributes);
+            if(loadedImage==null || imageAtrributes.get(Constants.IMAGE_HEIGHT)==null
+                    || imageAtrributes.get(Constants.IMAGE_WIDTH) == null)
+                return null;
             returnValue = generateImageHash(
                     getGreyPixelArray(
                             resizeAndGreyImage(
-                                    ReadImage.readFromPath(filePath, imageAtrributes), 9, 8
+                                    loadedImage, 9, 8
                             )
                     )
             );

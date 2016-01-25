@@ -18,8 +18,10 @@ public class DuplicateImageFinder {
             else
                 System.out.println("No freaking idea, what you gave in argument");
         }
-        //System.out.println(findDuplicatePairs("D:\\test\\images2\\"));
-        /*try{
+        /*List<String> test = findAllUniqueImages("D:\\test\\images2\\");
+        System.out.println("Size : "+test.size());
+        System.out.println(test);
+        *//*try{
             BufferedImage temp = ImageUtility.resizeAndGreyImage(
                     ReadImage.readFromPath("D:\\test\\images2\\image (1).jpg"), 500, 400
             );
@@ -71,8 +73,10 @@ public class DuplicateImageFinder {
             imageAttributes.clear();
             imageHash = null;
             imageHash = ImageUtility.getImageHash(imagesFile, imageAttributes);
-            imagesMap.put(imagesFile.getAbsolutePath(), imageAttributes.get(Constants.IMAGE_WIDTH) * imageAttributes.get(Constants.IMAGE_WIDTH));
-            imagesHashMap.put(imagesFile.getAbsolutePath(), imageHash);
+            if(imageHash != null && !imageHash.isEmpty()) {
+                imagesMap.put(imagesFile.getAbsolutePath(), imageAttributes.get(Constants.IMAGE_WIDTH) * imageAttributes.get(Constants.IMAGE_WIDTH));
+                imagesHashMap.put(imagesFile.getAbsolutePath(), imageHash);
+            }
         }
         int totalImagesCount = imagesMap.size();
         for(Map.Entry<String, String> entry1: imagesHashMap.entrySet())
@@ -100,7 +104,7 @@ public class DuplicateImageFinder {
             }
 
         Set<String> allImages = new HashSet<String>(imagesMap.keySet());
-        allImages.retainAll(allImagesFoundDuplicates);
+        allImages.removeAll(allImagesFoundDuplicates);
         for(String outputElement:allImages){
             Map<String, Integer> outputMap = new HashMap<String, Integer>();
             outputMap.put(outputElement, imagesMap.get(outputElement));
